@@ -12,11 +12,17 @@ __Database Schema__
 The schema used in this project includes the following tables:
 
 a) users: Contains user information such as usernames and account creation timestamps.
+
 b) photos: Stores details about posted photos, including image URLs and user IDs.
+
 c) comments: Contains comments made on photos, along with associated user and photo IDs.
+
 d) likes: Tracks user likes on photos.
+
 e) follows: Records user follow relationships.
+
 f) tags: Manages unique tag names for photos.
+
 g) photo_tags: Links photos with associated tags.
 
 __Project Tasks__
